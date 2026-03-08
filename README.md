@@ -4,13 +4,13 @@ Hi, I'm Nishu 👩‍💻
 This repo is my collection of SQL queries, Pandas notebooks, and Matplotlib visualizations that I practice daily for data analyst skills.  
 I’m building this as part of my learning journey and portfolio.
 
-## 📂 Repository Structure
+##  Repository Structure
 - `queries/` → SQL practice queries  
 - `outputs/` → CSV outputs or screenshots of query results  
 - `pandas/` → Python notebooks with Pandas practice  
 - `visuals/` → Matplotlib charts and plots  
 
-## 📌 SQL Topics Covered
+##  SQL Topics Covered
 - Joins (INNER, LEFT, FULL)  
 - Subqueries (Correlated & Non-correlated)  
 - Common Table Expressions (CTE)  
@@ -20,7 +20,7 @@ I’m building this as part of my learning journey and portfolio.
 - Business Insights Queries (Sales, Customers, Regions)  
 - **Correlated Queries**
 
-## 📌 Pandas Practice
+## Pandas Practice
 I have covered all major Pandas concepts:  
 - Data cleaning (missing values, duplicates)  
 - GroupBy and aggregation  
@@ -30,15 +30,14 @@ I have covered all major Pandas concepts:
 - Date/time operations  
 - End-to-end business analysis workflows  
 
-## 📌 Matplotlib Visualizations
+##  Matplotlib Visualizations
 I practice the basic and most useful charts:  
 - Line chart for trends  
 - Bar chart for category comparison  
 - Scatter plot for relationships  
 
-*(Pie chart is not included as I don’t use it in my practice.)*
 
-## 🎯 Purpose
+##  Purpose
 This repo is for:
 - Data Analyst portfolio building  
 - Internship and job preparation  
